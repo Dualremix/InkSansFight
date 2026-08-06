@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-08-06",
+  "changelog": "🎉 初始版本发布！\n- 首次公开测试",
+  "files": {
+    "win64": {
+      "url": "InkSansFight.zip",
+      "sha256": "",
+      "size": 0
+    }
+  },
+  "min_launcher_version": "1.0.0"
+}
