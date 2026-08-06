@@ -1,0 +1,35 @@
+[
+    {
+        "id": "inksansgame",
+        "name": "InkSansFight 系列",
+        "desc": "包含官方版和 Blub 魔改版",
+        "tag": "1.0.0",
+        "versions": [
+            {
+                "ver":   "0.0.6 Phase 5 (Blub)",
+                "asset": "To.ink.sans.Fight.0.0.6.Phase.5.By.Blub.zip",
+                "exe":   "Ink!Sans Fight.exe",
+                "note":  "Blub 魔改 · Phase 5"
+            },
+            {
+                "ver":   "0.0.6 (Blub)",
+                "asset": "To.ink.sans.Fight.0.0.6.By.Blub.zip",
+                "exe":   "Ink!Sans Fight.exe",
+                "note":  "Blub 魔改版"
+            },
+            {
+                "ver":   "0.0.3",
+                "asset": "To.ink.sans.Fight.0.0.3.zip",
+                "exe":   "Ink!Sans Fight.exe",
+                "note":  "官方版"
+            },
+            {
+                "ver":   "0.0.2",
+                "asset": "To.ink.sans.Fight.0.0.2.zip",
+                "exe":   "Ink!Sans Fight.exe",
+                "note":  "官方版"
+            }
+        ],
+        "latest_asset": "To.ink.sans.Fight.0.0.6.Phase.5.By.Blub.zip"
+    }
+]
