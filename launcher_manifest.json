@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "0.0.6",
   "release_date": "2026-08-06",
-  "changelog": "🎉 初始版本发布！\n- 首次公开测试",
+  "changelog": "toink by blub",
   "files": {
     "win64": {
       "url": "InkSansFight.zip",
-      "sha256": "",
-      "size": 0
+      "sha256": "848AB7DB3A3379731830F0029DE0A58CC61947BC8DE577F276AE555B39073BD7",
+      "size": 21337165
     }
   },
   "min_launcher_version": "1.0.0"
