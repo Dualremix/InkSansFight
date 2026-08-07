@@ -1,2 +1,3 @@
-# InkSansFight
-ECO-InkSans
+# InkSans系列游戏收录
+这里只会更新ink系列游戏，不会收录别的ut游戏
+持续更新中...
