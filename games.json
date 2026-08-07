@@ -1,7 +1,7 @@
 [
     {
-        "id": "inksansgame",
-        "name": "InkSansFight 系列",
+        "id": "inkGame",
+        "name": "ToInkSansFight",
         "desc": "包含官方版和 Blub 魔改版",
         "tag": "1.0.0",
         "versions": [
@@ -31,5 +31,50 @@
             }
         ],
         "latest_asset": "0.0.6 (Blub)"
+    },
+    {
+        "id": "inkGame",
+        "name": "InkSansFight",
+        "desc": "官方版isf",
+        "tag": "2.0.0",
+        "versions": [
+            {
+                "ver":   "0.20",
+                "asset": "Ink.sans.Fight.v0.20.zip",
+                "exe":   "ink0.20.exe",
+                "note":  "官方版"
+            },
+            {
+                "ver":   "0.22",
+                "asset": "Ink.sans.Fight.v0.22.zip",
+                "exe":   "Ink!sans Fight v0.22.exe",
+                "note":  "官方版"
+            },
+            {
+                "ver":   "0.25",
+                "asset": "Ink.sans.Fight.v0.25.zip",
+                "exe":   "ink0.25.exe",
+                "note":  "官方版"
+            },
+            {
+                "ver":   "0.30",
+                "asset": "Ink.sans.Fight.v0.30.zip",
+                "exe":   "ink.exe",
+                "note":  "官方版"
+            },
+            {
+                "ver":   "0.37",
+                "asset": "Ink.sans.Fight.v0.37.zip",
+                "exe":   "ink.exe",
+                "note":  "官方版"
+            },
+            {
+                "ver":   "0.39",
+                "asset": "Ink.sans.Fight.v0.39.zip",
+                "exe":   "Ink!sans Fight - v0.39.exe",
+                "note":  "官方版"
+            }
+        ],
+        "latest_asset": "0.39"
     }
 ]
